@@ -2,6 +2,8 @@
 ## *A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior*
 Bo-Hao Chen, Yu-Ling Wu, and Ling-Feng Shi
 
+![](/demo.png)
+
 ## Requirement:
 > * Linux or Windows
 > * Python 2.7
