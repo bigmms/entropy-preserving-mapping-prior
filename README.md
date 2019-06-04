@@ -5,14 +5,23 @@ Bo-Hao Chen, Yu-Ling Wu, and Ling-Feng Shi
 ## Requirement:
 > * Linux or Windows
 > * Python 2.7
+> * pip 19.1.1
 > * Numpy 1.16.4
 > * OpenCV 4.1.0.25
 > * Scipy 1.2.1
 
 ## Getting Started:
-```shell
-runDenoising
+### Installation
+- Install python libraries and requests.
+```bash
+pip install -r requirements.txt
 ```
+
+### Testing 
+To test the model:
+```bash
+    python main.py
+``` 
 
 ## Citation:
     @ARTICLE{chen2019enhancement, 
