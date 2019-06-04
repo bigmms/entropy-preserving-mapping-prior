@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### Testing 
-To test the model:
+- To test the model:
 ```bash
     python main.py
 ``` 
