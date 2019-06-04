@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ``` 
-The test results will be saved in: ./results/.
+The test results will be saved in: `./results/.`
 
 ## Citation:
     @ARTICLE{chen2019enhancement, 
