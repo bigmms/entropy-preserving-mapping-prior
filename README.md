@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ### Testing 
 - To test the model:
 ```bash
-    python main.py
+python main.py
 ``` 
 The test results will be saved in: ./results/.
 
